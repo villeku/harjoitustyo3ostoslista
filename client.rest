@@ -1,0 +1,2 @@
+### TESTAA TIEDON HAKU
+GET http://localhost/harjoitustyo3ostoslista/index.php
